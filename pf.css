@@ -282,6 +282,11 @@ footer {
     left: -80px;
 }
 
+#backimage{
+    height: 30px;
+    padding-top: 7px;
+}
+
 #next {
     right: -80px;
 }
